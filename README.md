@@ -53,3 +53,30 @@ RESET PASSWORD
 
 TAMPILAN DI LOCALHOST
 ![LOGIN](img/20.png) "Tampilan Login"
+
+CREATE NEW ACCOUNT
+![NEW](img/21.png) "Tampilan Membuat Akun"
+
+CREATE NEW ACCOUNT 
+![ACCOUNT] (img/22.png) "Membuat Akun Baru"
+
+LOGIN
+![LOGIN] (img/23.png) "Login"
+
+DASHBOARD
+![DASHBOARD] (img/24.png) "Dashboard"
+
+ADD BOOK
+![BOOK] (img/25.png) "Menambahkan Buku"
+
+FORM BOOK
+![FORMB] (img/26.png) "Menambah List Buku"
+
+SUCCES ADD BOOK
+![SUCC] (img/27.png) "Sukses Menambah List Buku"
+
+PASSWORD FORGET
+![PASS] (img/28.png) "Lupa Kata Sandi"
+
+ERROR
+![ERR] (img/29.png) "Error"
