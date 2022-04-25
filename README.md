@@ -58,25 +58,25 @@ CREATE NEW ACCOUNT
 ![NEW](img/21.png) "Tampilan Membuat Akun"
 
 CREATE NEW ACCOUNT 
-![ACCOUNT] (img/22.png) "Membuat Akun Baru"
+![ACCOUNT](img/22.png) "Membuat Akun Baru"
 
 LOGIN
-![LOGIN] (img/23.png) "Login"
+![LOGIN](img/23.png) "Login"
 
 DASHBOARD
-![DASHBOARD] (img/24.png) "Dashboard"
+![DASHBOARD](img/24.png) "Dashboard"
 
 ADD BOOK
-![BOOK] (img/25.png) "Menambahkan Buku"
+![BOOK](img/25.png) "Menambahkan Buku"
 
 FORM BOOK
-![FORMB] (img/26.png) "Menambah List Buku"
+![FORMB](img/26.png) "Menambah List Buku"
 
 SUCCES ADD BOOK
-![SUCC] (img/27.png) "Sukses Menambah List Buku"
+![SUCC](img/27.png) "Sukses Menambah List Buku"
 
 PASSWORD FORGET
-![PASS] (img/28.png) "Lupa Kata Sandi"
+![PASS](img/28.png) "Lupa Kata Sandi"
 
 ERROR
-![ERR] (img/29.png) "Error"
+![ERR](img/29.png) "Error"
