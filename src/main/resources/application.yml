@@ -3,8 +3,8 @@ server:
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/mybooks
-    username: jalalul
-    password: admin
+    username: postgres
+    password: postgres
   jpa:
     hibernate:
       ddl-auto: update
