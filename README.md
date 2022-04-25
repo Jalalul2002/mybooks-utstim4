@@ -78,5 +78,11 @@ SUCCES ADD BOOK
 PASSWORD FORGET
 ![PASS](img/28.png) "Lupa Kata Sandi"
 
-ERROR
-![ERR](img/29.png) "Error"
+TOKEN REQUEST SENDED
+![ERR](img/29.png) "Requst Token dan Reset Password Terkirim via Email"
+
+TOKEN REQUEST PADA EMAIL
+![ERR](img/30.png) "Requst Token dan Reset Password Terkirim via Email"
+
+RESET PASSWORD
+![ERR](img/31.png) "Reset Password"
